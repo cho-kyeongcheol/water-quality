@@ -14,6 +14,7 @@ $ git clone https://github.com/kotechnia/water-quality
 
 ```
 https://www.python.org/downloads/release/python-379/
+Windows x86-64 executable installer  install
 python 3.7.9 설치
 [python 은 버전을 맞춰 별도 설치필수(window 경우 32bit or 64bit 맞추지않으면 에러발생)]
 ```
