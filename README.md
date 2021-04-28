@@ -10,6 +10,13 @@
 ```bash
 $ git clone https://github.com/kotechnia/water-quality
 ```
+## Development Environment
+
+```
+https://www.python.org/downloads/release/python-379/
+python 3.7.9 설치
+[python 은 버전을 맞춰 별도 설치필수(window 경우 32bit or 64bit 맞추지않으면 에러발생)]
+```
 
 #### set
 
@@ -56,14 +63,6 @@ rnn 프로젝트
 수질예측 웹 인터페이스 프로젝트
 ```
 -------------------------------
-
-## Development Environment
-
-```
-python 3.7.9
-[python 은 버전을 맞춰 별도 설치필수(window 경우 32bit or 64bit 맞추지않으면 에러발생)]
-```
-  
 
 
 
