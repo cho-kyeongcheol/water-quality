@@ -16,9 +16,9 @@ $ git clone https://github.com/kotechnia/water-quality
 * in workspce not in water-quality *
 ```bash
 $ pip install virtualenv
-$ python3 -m venv venv
-or
 $ virtualenv venv
+or
+$ python3 -m venv venv
 or
 $ virtualenv venv --python=python3.7.9
 
