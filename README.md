@@ -34,18 +34,6 @@ $ python manage.py runserver IP:PORT
 ex) $ python manage.py runserver 127.0.0.1:8000
 ```
 
-``` bash
-python -m venv venv
-# for linux or macOS
-. venv/bin/activate
-
-$ for windows
-venv\Scripts\activate
-
-pip install -r requirements.txt
-python manage.py runserver 0.0.0.0:8000
-```
-
 ### gain
 ```
 기존 gain model 프로젝트
