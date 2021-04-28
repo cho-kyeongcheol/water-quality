@@ -28,10 +28,12 @@ $ . venv/bin/activate
 <window>
 $ call venv/script/activate
 $ pip install -r requirements.txt
-$ cd water-quality/web
+$ cd water-quality
 $ python manage.py runserver IP:PORT
 
 ex) $ python manage.py runserver 127.0.0.1:8000
+or
+$ python manage.py runserver 0.0.0.0:8000
 ```
 
 ### gain
